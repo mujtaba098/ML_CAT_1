@@ -1,2 +1,3 @@
-# ML_CAT_1
 Machine Learning CAT 1 
+Bashir Mujtaba - 099473
+Tuitoek Solomon - 101293
